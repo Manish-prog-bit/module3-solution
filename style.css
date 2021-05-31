@@ -26,6 +26,7 @@ body{
 .container
 {
 	background-color: grey;
+	margin-bottom: 30px;
 }
 .text-center{
 	font-size: 30px;
